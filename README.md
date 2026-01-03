@@ -51,7 +51,9 @@ Snake-Game-Java-AWT/
 <br><br>
 ▶️ How to Run
 
-Clone the repository : Compile using javac SnakeAWT.java
+Clone the repository : https://github.com/hitarthadroja/Snack_Game/blob/main/Snack_Game.java
+
+Compile using javac SnakeAWT.java
 
 Run using java SnakeAWT
 <br><br>
